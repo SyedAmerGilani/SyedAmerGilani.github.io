@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/syedamer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gilani.eu
+  * I am syedamer (https://keybase.io/syedamer) on keybase.
+  * I have a public key ASBNf2F3-kkC767B6y73OroTITrpZWurQKFEJrX9w5CqxAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01204d7f6177fa4902efaec1eb2ef73aba13213ae9656bab40a14426b5fdc390aac40a",
+            "host": "keybase.io",
+            "kid": "01204d7f6177fa4902efaec1eb2ef73aba13213ae9656bab40a14426b5fdc390aac40a",
+            "uid": "a814817aa493b4c5b4c8c002d186a519",
+            "username": "syedamer"
+        },
+        "service": {
+            "hostname": "gilani.eu",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1471430514,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1471430503,
+        "hash": "48e0d0ba28cb8e15307dc5b4c5f2dfc08e9f5bba3f33b546d78bf40a1300f887eaaf5a0c3818600b85f7031e675ddf3fa1e9c56be44892d2c6b4f4cf07601b30",
+        "seqno": 584224
+    },
+    "prev": "09c34ce43fd1abd3480a81aecd3fd79a51e1313a2359cf936f853cdd2e9d446a",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTX9hd/pJAu+uwesu9zq6EyE66WVrq0ChRCa1/cOQqsQKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNGQ3ZjYxNzdmYTQ5MDJlZmFlYzFlYjJlZjczYWJhMTMyMTNhZTk2NTZiYWI0MGExNDQyNmI1ZmRjMzkwYWFjNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGQ3ZjYxNzdmYTQ5MDJlZmFlYzFlYjJlZjczYWJhMTMyMTNhZTk2NTZiYWI0MGExNDQyNmI1ZmRjMzkwYWFjNDBhIiwidWlkIjoiYTgxNDgxN2FhNDkzYjRjNWI0YzhjMDAyZDE4NmE1MTkiLCJ1c2VybmFtZSI6InN5ZWRhbWVyIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJnaWxhbmkuZXUiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDcxNDMwNTE0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzE0MzA1MDMsImhhc2giOiI0OGUwZDBiYTI4Y2I4ZTE1MzA3ZGM1YjRjNWYyZGZjMDhlOWY1YmJhM2YzM2I1NDZkNzhiZjQwYTEzMDBmODg3ZWFhZjVhMGMzODE4NjAwYjg1ZjcwMzFlNjc1ZGRmM2ZhMWU5YzU2YmU0NDg5MmQyYzZiNGY0Y2YwNzYwMWIzMCIsInNlcW5vIjo1ODQyMjR9LCJwcmV2IjoiMDljMzRjZTQzZmQxYWJkMzQ4MGE4MWFlY2QzZmQ3OWE1MWUxMzEzYTIzNTljZjkzNmY4NTNjZGQyZTlkNDQ2YSIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECOObdlYtpjziDdV/leTYhe3N5TdVWV3DOqqjuIA3VwKi4PT8b/BTezTyHzqdJnsNj4xcPzpcnrUsiqTRE/mosNqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgLbCimVN4rQkj4GLhd0Z9R3ADwhZ5Uitk/5RVK8eEoOejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/syedamer
+
+==================================================================
